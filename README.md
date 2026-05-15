@@ -63,15 +63,6 @@ class Fabio:
 
 ---
 
-### 🚀 Proyecto destacado
-
-**[Predicción de desistimiento de clientes (crédito)](https://github.com/Fabio-data/Modelo-Desistimiento-de-clientes)** — modelo LightGBM end-to-end (EDA → calibración → SHAP) desplegado en Streamlit.
-
-[![App en vivo](https://img.shields.io/badge/▶_Probar_app_en_vivo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://modelo-desistimiento-de-clientes-gvdkeqyvdkx8gyfinsabmx.streamlit.app/)
-[![Informe](https://img.shields.io/badge/Informe_del_análisis-4D7CFE?style=for-the-badge&logo=quarto&logoColor=white)](https://fabio-data.github.io/Modelo-Desistimiento-de-clientes/)
-
----
-
 ### 📈 Estadísticas
 
 <p align="center">
