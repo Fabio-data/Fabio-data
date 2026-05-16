@@ -1,14 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4D7CFE,100:0A0B0D&height=190&section=header&text=Fabio%20Andr%C3%A9s%20Marulanda&fontColor=ffffff&fontSize=42&desc=Analista%20%26%20Cient%C3%ADfico%20de%20Datos&descSize=18&descAlignY=64" alt="banner" />
 
 <p align="center">
-  <a href="https://github.com/Fabio-data/fabio-marulanda-portfolio">
+  <a href="https://fabio-marulanda-portfolio.vercel.app/">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=4D7CFE&center=true&vCenter=true&width=600&lines=Del+dato+a+la+decisi%C3%B3n+y+al+modelo;SQL+%C2%B7+Power+BI+%C2%B7+Python+%C2%B7+Machine+Learning;Transformo+datos+en+decisiones+de+negocio" alt="typing" />
   </a>
 </p>
 
 <p align="center">
   <a href="mailto:fabioandres226481@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://github.com/Fabio-data/fabio-marulanda-portfolio"><img src="https://img.shields.io/badge/Portafolio-0A0B0D?style=for-the-badge&logo=githubpages&logoColor=4D7CFE" alt="portafolio" /></a>
+  <a href="https://fabio-marulanda-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portafolio_en_vivo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portafolio" /></a>
   <!-- EDITA: reemplaza por tu URL real de LinkedIn y descomenta -->
   <!-- <a href="https://www.linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> -->
   <img src="https://komarev.com/ghpvc/?username=Fabio-data&label=Visitas&color=4D7CFE&style=for-the-badge" alt="visitas" />
