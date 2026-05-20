@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4D7CFE,100:0A0B0D&height=190&section=header&text=Fabio%20Andr%C3%A9s%20Marulanda&fontColor=ffffff&fontSize=42&desc=Analista%20%26%20Cient%C3%ADfico%20de%20Datos&descSize=18&descAlignY=64" alt="banner" />
+<h1 align="center">Fabio Andrés Marulanda</h1>
+<h3 align="center">Analista &amp; Científico de Datos</h3>
 
 <p align="center">
   <a href="https://fabio-marulanda-portfolio.vercel.app/">
@@ -9,8 +10,6 @@
 <p align="center">
   <a href="mailto:fabioandres226481@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://fabio-marulanda-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portafolio_en_vivo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portafolio" /></a>
-  <!-- EDITA: reemplaza por tu URL real de LinkedIn y descomenta -->
-  <!-- <a href="https://www.linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> -->
   <img src="https://komarev.com/ghpvc/?username=Fabio-data&label=Visitas&color=4D7CFE&style=for-the-badge" alt="visitas" />
 </p>
 
@@ -60,21 +59,6 @@ class Fabio:
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-### 📈 Estadísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fabio-data&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-data&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Fabio-data&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fabio-data&theme=tokyo-night&hide_border=true&area=true&color=4D7CFE&line=4D7CFE&point=ffffff" alt="activity graph" />
 
 ---
 
